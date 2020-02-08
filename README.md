@@ -4,3 +4,9 @@
 feature-A first
 I am fix-B
 feature-C e~ 
+clone add
+
+小乌龟推送
+git bash推送
+#git bas再次推送
+小乌龟再次推送
